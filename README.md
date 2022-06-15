@@ -1,16 +1,24 @@
-### Hi there 👋
+### Oi eu sou o Goku 👋
 
-<!--
-**EduhFaustino/EduhFaustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Javascript](https://img.shields.io/badge/Javascript-FFFF00?style=for-the-badge&logo=js&logoColor=white)
+![Html](https://img.shields.io/badge/html-FA7343?style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/Css-0000FF?style=for-the-badge&logo=css&logoColor=white)
+![React](https://img.shields.io/badge/React-ADD8E6?style=for-the-badge&logo=react&logoColor=white)
+
+
+### Detalhes
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduhFaustino&show_icons=true)](http://github.com/anuraghazra/github-readme-stats)
+
+
+### Projetos
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduhFaustino&repo=Loja-de-Skate)](https://github.com/anuraghasra/github-readme-stats)
+
+
